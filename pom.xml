@@ -3,7 +3,7 @@
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>net.lampetty</groupId>
-    <artifactId>war-jar-sample</artifactId>
+    <artifactId>war-jar-sample1</artifactId>
     <version>1.0.0-SNAPSHOT</version>
     <packaging>war</packaging>
     <name>war-jar-sample</name>
