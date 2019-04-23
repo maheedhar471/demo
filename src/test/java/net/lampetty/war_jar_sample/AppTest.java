@@ -1,4 +1,4 @@
-package net.lampetty.demo;
+package net.lampetty.war_jar_sample;
 
 import junit.framework.Test;
 import junit.framework.TestCase;
