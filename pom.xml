@@ -5,7 +5,7 @@
   <modelVersion>4.0.0</modelVersion>
 
   <groupId>com.test.com</groupId>
-  <artifactId>demo</artifactId>
+  <artifactId>war_jar_sample</artifactId>
   <version>1.0-SNAPSHOT</version>
 
   <name>demo</name>
